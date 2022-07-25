@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://github-readme-stats.vercel.app/api?username=ItsTeo04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=4&row=2">
 <!--
 **ItsTeo04/ItsTeo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
